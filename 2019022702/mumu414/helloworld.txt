@@ -6,3 +6,5 @@ Hubot here. I like Nede.js and Coffeescript (that's what I'm made of!) I've had 
 on my god!!
 
 too difficult！！！
+
+该吃饭啦！
